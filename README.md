@@ -7,7 +7,7 @@ J'ai été interessé par les jeux vidéos depuis petit et j'ai pour rêve de cr
 Au collège je codais des petits jeux sur Scratch, je me suis ensuite tourné vers Unity au lycée (code en C#) et depuis la fin du lycée jusqu'à encore ajourd'hui je code sur Godot (code en GDScript). 
 
 ### Projets en cours :
-- (Projet) [Jeu de course infini](https://github.com/kadthelad/jeu_de_course_infinie)
+- [Jeu de course infini](https://github.com/kadthelad/jeu_de_course_infinie)
 
 ### Expérience :
 - Python
