@@ -1,16 +1,17 @@
-## Hi there 👋
+## Salutations! 👋
 
-<!--
-**kadthelad/kadthelad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Je m'appelle Kadir EKICI, je suis étudiant en BUT Informatique à l'IUT Robert Schuman.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'ai été interessé par les jeux vidéos depuis petit et j'ai pour rêve de créer un jeu complètement par moi-même.
+Au collège je codais des petits jeux sur Scratch, je me suis ensuite tourné vers Unity au lycée (code en C#) et depuis la fin du lycée jusqu'à encore ajourd'hui je code sur Godot (code en GDScript). 
+
+### Projets en cours :
+- 
+
+### Expérience :
+- Python
+- GDScript (Godot)
+- C / C# 
+- Java
+- HTML / CSS / JavaScript
