@@ -13,5 +13,4 @@ Au collège je codais des petits jeux sur Scratch, je me suis ensuite tourné ve
 - Python
 - GDScript (Godot)
 - C / C# 
-- Java
-- HTML / CSS / JavaScript
+- HTML / CSS / JavaScript (également avec Astro)
