@@ -8,6 +8,9 @@ Au collège je codais des petits jeux sur Scratch, je me suis ensuite tourné ve
 
 ### Projets en cours :
 - [Jeu de course infini](https://github.com/kadthelad/jeu_de_course_infinie)
+- [Jeu de course compétitif multijoueur (3D)](https://github.com/kadthelad/untitled_racing_game)
+- [UmaMC V1](https://github.com/kadthelad/umaMC_V1) (Exploitation de base de données, application)
+- [UmaMC V2](https://github.com/kadthelad/umaMC_V2) (Exploitation de base de données, site web)
 
 ### Expérience :
 - Python
