@@ -4,7 +4,8 @@
 
 
 J'ai été interessé par les jeux vidéos depuis petit et j'ai pour rêve de créer un jeu complètement par moi-même.
-Au collège je codais des petits jeux sur Scratch, je me suis ensuite tourné vers Unity au lycée (code en C#) et depuis la fin du lycée jusqu'à encore ajourd'hui je code sur Godot (code en GDScript). 
+
+Au collège je codais des petits jeux sur Scratch, je me suis ensuite tourné vers Unity au lycée (code en C#) et depuis la fin du lycée jusqu'à encore aujourd'hui je code sur Godot (GDScript). 
 
 ### Projets en cours :
 - [Jeu de course infini](https://github.com/kadthelad/jeu_de_course_infinie)
