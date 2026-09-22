@@ -11,7 +11,7 @@ Au collège je codais des petits jeux sur Scratch, je me suis ensuite tourné ve
 - [Jeu de course compétitif multijoueur (3D)](https://github.com/kadthelad/untitled_racing_game)
 - [UmaMC V1](https://github.com/kadthelad/umaMC_V1) (Exploitation de base de données, application)
 - [UmaMC V2](https://github.com/kadthelad/umaMC_V2) (Exploitation de base de données, site web)
-- [NiceN.App](https://github.com/kadthelad/NiceN.App)
+- [NiceN.App](https://github.com/kadthelad/NiceN.App) (Exploitation de base de données, Bot Discord)
 
 ### Expérience :
 - Python
