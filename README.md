@@ -30,8 +30,9 @@
 - [Jeu de course multijoueur 3D](https://github.com/kadthelad/untitled_racing_game) : *Jeu de course en multijoueur/solo, designé pour le jeu compétitif.*
 
 ## 🎓 Projets universitaires (BUT Informatique)
-- [Projet Stargate](https://github.com/kadthelad/projet_stargate) : *Exploitation de base de donnée en Winforms DOTNET, C#, travail en groupe*
 - [Projet Donjons et Dragons](https://github.com/kadthelad/projet_doonjon_et_dragons) : *Utilisation de la POO (Programmation Orioentée Objet), Java, travail en groupe*
+- [Projet Stargate](https://github.com/kadthelad/projet_stargate) : *Exploitation de base de donnée en Winforms DOTNET, C#, travail en groupe*
+
 
 ## 🎮 Un peu plus sur moi
 
