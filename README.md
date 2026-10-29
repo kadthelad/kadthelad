@@ -1,9 +1,9 @@
 # Kadir EKICI 👋
 
 Étudiant en **BUT Informatique** à l'IUT Robert Schuman (Illkirch).
-🔎 **À la recherche d'un stage de [50 jours (ou plus)] à partir d'[avril 2027]**, en développement ou dans tout domaine du développement informatique.
+🔎 **À la recherche d'un stage de 50 jours (ou plus) à partir d'avril 2027**, en développement ou dans tout domaine du développement informatique.
 
-📫 [kadirekici1268@gmail.com]
+📫 kadirekici1268@gmail.com
 
 ## 🛠️ Compétences
 
